@@ -399,12 +399,20 @@
       border-radius: 80px;
       cursor: pointer;
     }
+    
+   .outline-btn {
+  padding: 15px 22px;
+  font-size: 14px;
+  font-weight: 400;
+  border-radius: 80px;
+  cursor: pointer;
 
-    .outline-btn {
-      border: 1px solid #fff;
-      background: transparent;
-      color: #fff;
-    }
+  border: 1px solid #fff;
+  background: transparent;
+  color: #fff;
+}
+
+    
 
     .filled-btn {
       background-color: #23BDEEE5;
